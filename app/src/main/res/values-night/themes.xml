@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PushupCounter" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorAccent">@color/yellow_lite</item>
+
+
+    </style>
+</resources>
